@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Inpainter",
+  "description": "Upload an image, draw a mask over the area you want to change, and use a text prompt to edit the image with Gemini AI.",
+  "requestFramePermissions": []
+}
